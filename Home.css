@@ -108,10 +108,18 @@
     width: auto;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 177px;
+  min-height: 422px;
 }
 
-.u-section-2 .u-text-1 {
-  font-weight: 900;
-  margin: 60px auto;
+.u-section-2 .u-custom-html-1 {
+  height: auto;
+  min-height: 362px;
+  margin: 0 auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
