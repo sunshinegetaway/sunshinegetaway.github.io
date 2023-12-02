@@ -77,34 +77,37 @@
 .u-section-2 .u-custom-html-1 {
   height: auto;
   min-height: 320px;
-  margin: 20px 537px 0 29px;
+  margin: 20px 406px 0 160px;
 }
 
 .u-section-2 .u-custom-html-2 {
   height: auto;
   min-height: 1151px;
   background-image: none;
-  margin: 0 486px 0 0;
+  margin: 9px 355px 60px 131px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-custom-html-1 {
-    margin-right: 366px;
-    margin-left: 0;
+    margin-right: 306px;
+    margin-left: 60px;
   }
 
   .u-section-2 .u-custom-html-2 {
-    margin-right: 286px;
+    margin-right: 255px;
+    margin-left: 31px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-custom-html-1 {
     margin-right: 146px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-custom-html-2 {
     margin-right: 66px;
+    margin-left: 0;
   }
 }
 
