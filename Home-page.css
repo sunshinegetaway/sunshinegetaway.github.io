@@ -725,7 +725,7 @@
   }
 
   .u-section-4 .u-custom-html-1 {
-    margin-top: -10px;
+    margin-top: 20px;
     margin-right: 0;
   }
 
@@ -751,10 +751,6 @@
 @media (max-width: 575px) {
   .u-section-4 .u-text-1 {
     margin-right: 164px;
-  }
-
-  .u-section-4 .u-custom-html-1 {
-    margin-top: -18px;
   }
 
   .u-section-4 .u-text-2 {
